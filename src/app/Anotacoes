@@ -1,0 +1,6 @@
+para criar uma classe como uma constante
+ng generate class AppConstants
+
+para criar um service
+ng generate service LoginService
+
